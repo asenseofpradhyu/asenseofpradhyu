@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradhumansinh Padhiyar</h1>
-<h3 align="center">I'm a software engineer who is passionate about making Saas products in public, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), NodeJS, and New Tech Frameworks. My interest in Tech led me to launch lovecoders, a community for coders, and help people to develop their products.</h3>
+<h3>I'm a software engineer who is passionate about making Saas products in public, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), NodeJS, and New Tech Frameworks. My interest in Tech led me to launch lovecoders, a community for coders, and help people to develop their products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhuman01&label=Profile%20views&color=0e75b6&style=flat" alt="pradhuman01" /> </p>
 
