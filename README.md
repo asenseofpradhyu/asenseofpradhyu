@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/asenseofpradhyu" target="blank"><img src="https://img.shields.io/twitter/follow/asenseofpradhyu?logo=twitter&style=for-the-badge" alt="asenseofpradhyu" /></a> </p>
 
-- 🌱 I’m currently exploring **New Trendy Tech (React Native, TailwindCSS, NodeJS)**
+- 🌱 I’m currently exploring **New Trendy Tech (Flutter, TailwindCSS, NodeJS)**
 
-- 💬 Ask me about **Angular, React, React-Native, Design, Development etc..c**
+- 💬 Ask me about **Angular, React, Flutter, Design, Development etc..c**
 
 - 📫 How to reach me **pradhu619@gmail.com**
 
