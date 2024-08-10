@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://pradhuman.hashnode.dev/](https://pradhuman.hashnode.dev/)
 
-- 💬 Ask me about **Angular, React, React-Native, Flutter, Design, Development etc..c**
+- 💬 Ask me about **Angular, React, React-Native, Flutter, Design, Development etc..
 
 - 📫 How to reach me **pradhu619@gmail.com**
 
