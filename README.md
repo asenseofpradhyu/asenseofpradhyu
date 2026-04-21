@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pradhu619@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o47S6YA3tOH084-_aDFIMgDhi3K_UVa0/view?usp=sharing](https://drive.google.com/file/d/1o47S6YA3tOH084-_aDFIMgDhi3K_UVa0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uwa8PGt_QApQzNpMxZedIDfV_bXoXbt_/view?usp=drive_link](https://drive.google.com/file/d/1uwa8PGt_QApQzNpMxZedIDfV_bXoXbt_/view?usp=drive_link)
 
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you are also the murderer.**
 
